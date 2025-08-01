@@ -295,7 +295,6 @@ with tab3:
 # Rodapé
 st.markdown("---")
 st.markdown("""
-**Desenvolvido para o Laboratório de Processos - UFAM**  
-Luis Henrique - Engenharia Química  
+**Desenvolvido por Luis Henrique - Engenharia Química UFAM**    
 Baseado nos experimentos com a Célula de Arnold UpControl
 """)
